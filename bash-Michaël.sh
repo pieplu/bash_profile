@@ -1,5 +1,4 @@
 
-
 ## Divers
 alias ll='ls -la'
 alias cc='clear'
