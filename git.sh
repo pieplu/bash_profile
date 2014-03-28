@@ -27,7 +27,7 @@ alias gitpul='git pull'
 
 
 
-# -- Mickaël --
+# -- Michaël --
 alias ga='git add'
 alias gps='git push'
 alias gpus='git push'
